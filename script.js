@@ -12,6 +12,7 @@ function increment(){
 
 function decrement(){
         // get the vlue from UI
+        // updated the script.js file
         let value = parseInt(countValue.innerText);
         //Update the value
         value = value - 1;
